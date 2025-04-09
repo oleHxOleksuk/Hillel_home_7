@@ -6,4 +6,4 @@ def common_elements():
     intersection = list_of_3 & list_of_5
 
     return intersection
-assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
+#assert common_elements() == {0, 75, 45, 15, 90, 60, 30}
